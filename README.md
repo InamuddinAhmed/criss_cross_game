@@ -11,3 +11,5 @@ To run this just follow this steps....
 2.compile it using "javac Main.java" (you need a JVM)
 3.run this using "Appletviewer Main.html" (if no error occurs)
 4.done
+
+Here is the link for how to install JVM : https://c-programming-forum-simple.blogspot.com/2019/09/java-jdk.html
